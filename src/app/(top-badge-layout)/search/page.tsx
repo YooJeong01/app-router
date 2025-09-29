@@ -1,5 +1,5 @@
 import SearchForm from "@/app/components/SearchForm"
-import fetchPhotos from "@/app/uttils/fetchPhotos"
+import fetchPhotos from "@/app/utills/fetchPhotos"
 import { Metadata } from "next"
 import Image from "next/image"
 import Link from "next/link"

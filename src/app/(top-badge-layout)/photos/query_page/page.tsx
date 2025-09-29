@@ -1,7 +1,7 @@
 'use client'
 
 import { Photo } from "@/app/@types/type"
-import fetchPhotos from "@/app/uttils/fetchPhotos"
+import fetchPhotos from "@/app/utills/fetchPhotos"
 import { useQuery, useSuspenseQuery } from "@tanstack/react-query"
 
 import Image from "next/image";

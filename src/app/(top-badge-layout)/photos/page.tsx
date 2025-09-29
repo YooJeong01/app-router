@@ -1,11 +1,11 @@
-import fetchPhotos from "@/app/uttils/fetchPhotos"
+import fetchPhotos from "@/app/utills/fetchPhotos"
 
 import Image from "next/image";
 import Link from "next/link";
 
 import { Metadata } from "next"
 import { notFound } from "next/navigation";
-import { delay } from "@/app/uttils/delay";
+import { delay } from "@/app/utills/delay";
 
 
 export const metadata: Metadata = {

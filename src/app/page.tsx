@@ -1,5 +1,5 @@
 import { Metadata } from "next"
-import { getRandomPhotos } from "./uttils/getRandomPhotos";
+import { getRandomPhotos } from "./utills/getRandomPhotos";
 import AnimatedPhotoList from "./components/AnimatedPhotoList";
 
 export const metadata: Metadata = {

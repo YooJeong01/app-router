@@ -1,5 +1,5 @@
-import { delay } from "@/app/uttils/delay";
-import fetchPhotosByOne from "@/app/uttils/fetchPhotosByOne";
+import { delay } from "@/app/utills/delay";
+import fetchPhotosByOne from "@/app/utills/fetchPhotosByOne";
 import Image from "next/image";
 import { notFound } from "next/navigation";
 // RSC(React Server Component)로 동작함

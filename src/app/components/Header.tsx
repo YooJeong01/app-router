@@ -1,7 +1,7 @@
 'use client'
 
 import Link from "next/link"
-import { navItems } from "../uttils/navigation"
+import { navItems } from "../utills/navigation"
 import { usePathname } from "next/navigation"
 
 
